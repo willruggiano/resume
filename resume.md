@@ -15,12 +15,12 @@ systems.
 ## Experience
 
 **Software Engineer, Tendrel**  
-2022–
+2023–
 
 - Full stack: NodeJS, Typescript, Express/GraphQL, Postgresql, AWS
 
 **Software Engineer, Amazon/AWS**  
-2016–2022
+2016–2023
 
 - Joined Amazon out of college as an architecture major; self-taught coder.
 - Spent several years on the retail side with the Notifications team.
