@@ -14,14 +14,12 @@ systems.
 
 ## Experience
 
-**Software Engineer, Tendrel**
-
+**Software Engineer, Tendrel**<br>
 2023–
 
 - Full stack: NodeJS, Typescript, Express/GraphQL, Postgresql, AWS
 
-**Software Engineer, Amazon/AWS**
-
+**Software Engineer, Amazon/AWS**<br>
 2016–2023
 
 - Joined Amazon out of college as an architecture major; self-taught coder.
@@ -29,8 +27,7 @@ systems.
 - Transitioned to AWS, focused on VDI.
 - Core member of a team that built a real-time streaming protocol for virtual desktops from the ground up.
 
-**Undergrad (Architecture), University of Virginia**
-
+**Undergrad (Architecture), University of Virginia**<br>
 2012-2016
 
 - First coding experience: Python in Grasshopper (Rhino 3D).
@@ -44,27 +41,23 @@ These are all Neovim/Nix related lmao.
 
 ### [neovim.drv](https://github.com/willruggiano/neovim.drv)
 
-Personal Neovim environment, packaged as a Nix flake.
-
+Personal Neovim environment, packaged as a Nix flake.<br>
 **Language:** Lua, Nix
 
 ### [neovim.nix](https://github.com/willruggiano/neovim.nix)
 
-Nix library for building custom Neovim derivations.
-
+Nix library for building custom Neovim derivations.<br>
 **Language:** Nix
 
 ### [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay)
 
 Active maintainer for the most popular Neovim overlay in the Nix ecosystem.<br>
-Provides nightly and stable Neovim releases, supporting hundreds of users.
-
+Provides nightly and stable Neovim releases, supporting hundreds of users.<br>
 **Language:** Nix
 
 ### [dotfiles](https://github.com/willruggiano/dotfiles)
 
-Personal dotfiles for system configuration.
-
+Personal dotfiles for system configuration.<br>
 **Language:** Nix
 
 ---
