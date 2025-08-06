@@ -1,8 +1,8 @@
 # Will Ruggiano
 
 [GitHub] [LinkedIn]<br>
-Phone: +1 (559) 902-4553<br>
-Email: under.dish.guess@clkdmail.com<br>
+Discord: _willruggiano_<br>
+Email: _will at ruggianofamily dot com_<br>
 
 My background is actually in architecture (i.e. undergrad) and I have been mostly
 self-taught in the ways of coding (though I have had several incredible colleagues
