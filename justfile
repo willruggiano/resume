@@ -1,7 +1,7 @@
-default: html pdf
-
-html:
-  pandoc -o resume.html resume.md
+default: pdf
 
 pdf:
-  pandoc --pdf-engine=typst -o resume.pdf resume.md
+  typst compile -f=pdf resume.typ
+
+watch:
+  typst watch resume.typ --open

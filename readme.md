@@ -1,8 +1,7 @@
 This repository contains my resume.
 
-The "source code" is in [resume.md](./resume.md).
+The "source code" is in [resume.typ](./resume.typ).
 
-I then transpile it to [html](./resume.html) and [pdf](./resume.pdf) using
-[pandoc]. Note that the pdf version loses some links :/
+I then transpile it to [pdf](./resume.pdf) using [typst].
 
-[pandoc]: https://github.com/jgm/pandoc
+[typst]: https://github.com/typst/typst
