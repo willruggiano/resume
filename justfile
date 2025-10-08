@@ -1,7 +1,9 @@
+source_file := "resume.typ"
+
 default: pdf
 
 pdf:
-  typst compile -f=pdf resume.typ
+  typst compile -f=pdf {{source_file}}
 
 watch:
-  typst watch resume.typ --open
+  typst watch {{source_file}} --open

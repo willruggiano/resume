@@ -1,0 +1,8 @@
+*
+!.gitignore
+!justfile
+!reading.bib
+!readme.md
+!resume.pdf
+!resume.typ
+!shell.nix
